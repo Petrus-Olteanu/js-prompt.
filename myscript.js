@@ -1,7 +1,7 @@
 
-
+/*Declare var*/
 var nome= prompt("Inserisci il tuo nome: "," ");
-
+/*Output*/
 document.getElementById("nome").innerHTML = nome;
 
 var cognome = prompt("Inserisci il tuo cognome: "," ");
